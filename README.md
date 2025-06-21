@@ -1,4 +1,4 @@
-🔹 1. Profit by Region and Customer Segment (Top-Center)
+# 1. Profit by Region and Customer Segment (Top-Center)
 A horizontal bar chart shows the profit contributed by each customer segment in different regions:
 
 Central Region
@@ -29,9 +29,11 @@ Corporate: ₹7,225
 
 Consumer: ₹6,243
 
-✅ Observation: The Central region is the most profitable, especially with Small Business and Home Office customers.
+__________________________________________________________________________________________________________________________________________________
 
-🔹 2. Pie Chart by Sum of Sales per Region (Top-Right)
+ # Observation: The Central region is the most profitable, especially with Small Business and Home Office customers.
+
+2. Pie Chart by Sum of Sales per Region (Top-Right)
 Displays the percentage and actual sales contribution by region:
 
 Central: ₹393,433 (38.17%)
@@ -41,19 +43,19 @@ East: ₹237,178 (23.01%)
 South: ₹201,281 (19.53%)
 
 West: ₹198,967 (19.30%)
+________________________________________________________________________________________________________________________________________________
+# Observation: The Central region has the highest sales share, almost double that of the West.
 
-✅ Observation: The Central region has the highest sales share, almost double that of the West.
-
-🔹 3. Profit vs Sales Scatter Plot (Middle)
+3. Profit vs Sales Scatter Plot (Middle)
 This plot maps Sales (X-axis) against Profit (Y-axis) per transaction or data point. Different colors represent customer segments.
 
-✅ Observation:
+ Observation:
 
 Most data points cluster under ₹10K in sales and a profit range of ±₹2K.
 
 A few high-sale/high-profit outliers exist, particularly in Central region (e.g., one point above ₹24K sales and ₹10K+ profit).
-
-🔹 4. Order Quantity by Month (Bottom)
+_________________________________________________________________________________________________________________________________________________
+#4. Order Quantity by Month (Bottom)
 Line chart showing monthly order quantities:
 
 Month	Order Quantity
@@ -70,9 +72,9 @@ October	18,278
 November	16,251
 December	18,241
 
-✅ Observation: May has the highest order quantity, while November is the lowest.
+# Observation: May has the highest order quantity, while November is the lowest.
 
-🔹 5. Filters (Top-Left and Center)
+5. Filters (Top-Left and Center)
 Grouping Based on Unit Price: Categories A, B, C can be selected.
 
 Customer Segment Filter
@@ -81,7 +83,7 @@ Region Filter
 
 Customer slider: Possibly filters based on number of customers or customer ID ranges.
 
-📌 Key Insights
+Key Insights
 Central region dominates both in sales and profit, driven by Small Business and Home Office customers.
 
 Corporate segments are generally profitable across all regions.
