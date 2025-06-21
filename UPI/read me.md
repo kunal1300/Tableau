@@ -1,10 +1,5 @@
 
-![Dashboard Overview](![Uploading Screenshot 2025-06-21 170417.png…]())
-
-
-
-
-
+![Dashboard Overview](https://github.com/kunal1300/Tableau/blob/main/UPI/Screenshot%202025-06-21%20170417.png)
 
 
 
