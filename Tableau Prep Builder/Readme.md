@@ -68,7 +68,8 @@ The Tableau Prep flow consolidates regional order files, applies cleaning and da
 This project is for educational and analytical purposes. Feel free to fork or contribute.
 
 ---
-
+![Screenshot](https://github.com/kunal1300/Tableau/blob/main/Tableau%20Prep%20Builder/Screenshot%202025-06-23%20085520.png)
+![Screenshot](https://github.com/kunal1300/Tableau/blob/main/Tableau%20Prep%20Builder/Screenshot%202025-06-23%20090531.png)
 ## 🙋‍♂️ Author
 
 **Kunal Solanki**  
