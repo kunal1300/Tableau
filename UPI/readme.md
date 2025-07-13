@@ -82,7 +82,7 @@ The dashboard was designed using visualization tools (Tableau/Power BI) to assis
 ## 🗂️ Project Details
 
 - **Screenshot Name:** `Screenshot_2025-06-21_170417.png`
-- **Visualization Tool:** Tableau / Power BI
+- **Visualization Tool:** Tableau 
 - **Category:** Digital Payments, Transaction Analytics, Fintech Dashboard
 
 ---
@@ -92,6 +92,6 @@ The dashboard was designed using visualization tools (Tableau/Power BI) to assis
 For more insights or custom dashboards, feel free to connect:
 
 **Author:** Kunal Solanki  
-**LinkedIn:** linkedin.com/in/kunal-solanki-a0a682158 
+**LinkedIn:** [linkedin.com/in/kunal-solanki-a0a682158 ](https://www.linkedin.com/in/kunal-solanki-a0a682158/)
 
 ---
