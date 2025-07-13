@@ -92,7 +92,6 @@ The dashboard was designed using visualization tools (Tableau/Power BI) to assis
 For more insights or custom dashboards, feel free to connect:
 
 **Author:** Kunal Solanki  
-**GitHub:** [github.com/your-profile](https://github.com/your-profile)  
-**LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+**LinkedIn:** linkedin.com/in/kunal-solanki-a0a682158 
 
 ---
